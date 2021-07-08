@@ -1,0 +1,5 @@
+﻿  pb1.c
+C:\Users\jsviv\source\repos\210322\문제1\pb1.c(39,14): warning C4101: 'bIndex' :참조되지 않은 지역 변수입니다.
+C:\Users\jsviv\source\repos\210322\문제1\pb1.c(39,6): warning C4101: 'aIndex' :참조되지 않은 지역 변수입니다.
+C:\Users\jsviv\source\repos\210322\문제1\pb1.c(82,13): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+  문제1.vcxproj -> C:\Users\jsviv\source\repos\210322\Debug\문제1.exe

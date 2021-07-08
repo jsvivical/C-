@@ -1,0 +1,6 @@
+﻿  pb2.c
+C:\Users\test\source\repos\210324\문제 2\pb2.c(39,10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\test\source\repos\210324\문제 2\pb2.c(48,68): warning C4244: '함수': 'double'에서 'size_t'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\test\source\repos\210324\문제 2\pb2.c(85,10): warning C4477: 'printf' : 서식 문자열 '%3d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'element'입니다.
+C:\Users\test\source\repos\210324\문제 2\pb2.c(64,14): warning C4101: 'f2' :참조되지 않은 지역 변수입니다.
+  문제 2.vcxproj -> C:\Users\test\source\repos\210324\Debug\문제 2 - 1.exe

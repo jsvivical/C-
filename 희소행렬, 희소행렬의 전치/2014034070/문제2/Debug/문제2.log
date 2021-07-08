@@ -1,0 +1,3 @@
+﻿  pb2.c
+C:\Users\jsviv\source\repos\210322\문제2\pb2.c(76,22): warning C4101: 'm' :참조되지 않은 지역 변수입니다.
+  문제2.vcxproj -> C:\Users\jsviv\source\repos\210322\Debug\문제2.exe
